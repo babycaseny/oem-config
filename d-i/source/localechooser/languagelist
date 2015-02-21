@@ -4,6 +4,7 @@
 sq;Albanian;Shqip;2;AL;UTF-8;sq_AL.UTF-8;;kbd=lat0-sun16(utf8)
 am;Amharic;አማርኛ;4;ET;UTF-8;am_ET;;
 ar;Arabic;عربي;3;EG;UTF-8;ar_EG.UTF-8;;console-setup
+bb;Babyish;Babyish;1;BK;UTF-8;bb_BK.UTF-8;;kbd=lat0-sun16(utf8)
 eu;Basque;Euskara;1;ES;UTF-8;eu_ES.UTF-8;;kbd=lat0-sun16(utf8)
 be;Belarusian;Беларуская;2;BY;UTF-8;be_BY.UTF-8;;console-setup
 bn;Bengali;বাংলা;4;BD;UTF-8;bn_BD;;
